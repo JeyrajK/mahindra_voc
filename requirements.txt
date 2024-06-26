@@ -1,0 +1,7 @@
+top2vec==1.0.34
+streamlit==1.35.0
+sentence_transformers==3.0.0
+sklearn==1.2.2
+pandas==1.5.3
+numpy==1.24.4
+plotly==5.9.0
